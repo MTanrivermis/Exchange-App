@@ -1,0 +1,9 @@
+body {
+    background-image: url(./hangi-bankalar-doviz-bozuyor.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button:hover {
+    opacity: 0.9;
+}
